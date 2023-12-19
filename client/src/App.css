@@ -1,0 +1,43 @@
+.node {
+  border: 0px solid #000000;
+  padding: 1px;
+  /* margin: 1px; */
+  background-color: rgb(253, 246, 235);
+  /* border-collapse:collapse; */
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p{
+  margin: 0px;
+  padding: 0px;
+}
+
+.pagination{
+  border: 2px solid black;
+  margin: 3px solid black;
+  width: 30%;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn{
+  color: white;
+  background-color: black;
+  padding: 5px;
+  margin: 5px;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+#header{
+  padding: 0;
+  margin: 0;
+  background-color: #ff6600;
+}
